@@ -122,14 +122,3 @@ h1 {
   margin-top: 10px;
   color: red;
 }
-.rotate-num {
-  animation: in 4s linear 0s infinite normal;
-}
-@keyframes in {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
